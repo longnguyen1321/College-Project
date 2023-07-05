@@ -1,0 +1,14 @@
+C:\LT.NET\BTL\Test\bin\Debug\Test.exe.config
+C:\LT.NET\BTL\Test\bin\Debug\Test.exe
+C:\LT.NET\BTL\Test\bin\Debug\Test.pdb
+C:\LT.NET\BTL\Test\obj\Debug\Test.csproj.AssemblyReference.cache
+C:\LT.NET\BTL\Test\obj\Debug\Test.csproj.SuggestedBindingRedirects.cache
+C:\LT.NET\BTL\Test\obj\Debug\Test.Properties.Resources.resources
+C:\LT.NET\BTL\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\LT.NET\BTL\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\LT.NET\BTL\Test\obj\Debug\Test.exe
+C:\LT.NET\BTL\Test\obj\Debug\Test.pdb
+C:\LT.NET\BTL\Test\obj\Debug\Test.frmLogin.resources
+C:\LT.NET\BTL\Test\obj\Debug\Test.test.resources
+C:\LT.NET\BTL\Test\obj\Debug\BaiTapLon_LapTrinhDotNet.HRM.frmLogin.resources
+C:\LT.NET\BTL\Test\obj\Debug\frmMain.frmMain1.resources
